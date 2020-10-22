@@ -1,0 +1,1 @@
+test.assert_equals(square_digits(9119), 811181)
